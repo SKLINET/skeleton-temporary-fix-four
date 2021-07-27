@@ -7,26 +7,26 @@ Android and iOS
 
 ### Installation
 
-> Note: This package requires the dependency **@react-native-masked-view/masked-view**.
+> Note: This package requires the dependency **@react-native-community/masked-view**.
 
 ###### Step #1
 
 Using yarn:
 
 ```bash
-yarn add @react-native-masked-view/masked-view
+yarn add @react-native-community/masked-view
 ```
 
 Using npm:
 
 ```bash
-npm install @react-native-masked-view/masked-view --save
+npm install @react-native-community/masked-view --save
 ```
 
 If you are running a **react-native** version below 0.60:
 
 ```bash
-react-native link @react-native-masked-view/masked-view
+react-native link @react-native-community/masked-view
 ```
 
 Otherwise:
